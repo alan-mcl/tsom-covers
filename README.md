@@ -16,3 +16,6 @@ The TL;DR:
 * Least diverse genres of covers: **Something Fast**, **Alice**, **Body Electric**
 * Most prolific cover artists: **Brad Salyn**, followed by **nmacog** and **botchandango**
 * No covers: **Watch** and **Phantom**, also **Driver**, **Wide Receiver**, **Better Reptile**, **I Will Call You**
+
+
+![](tsom_covers.png)
